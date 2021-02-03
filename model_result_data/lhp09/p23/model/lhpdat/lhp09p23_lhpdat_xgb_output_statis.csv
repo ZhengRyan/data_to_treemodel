@@ -1,0 +1,2 @@
+project_name,client_batch,feature,test_auc,train_auc,test_ks,train_ks,feature_cnt,n_estimators
+lhp09p23,lhp09p23,lhpdat,0.5349213905854486,0.5313642660265074,0.09701934465061196,0.07270989379686243,1,286

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31b0a1a8-7689-431a-9c90-71887c926504" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/data_to_treemodel$category_label_encoder.coverage" NAME="category_label_encoder Coverage Results" MODIFIED="1600698625613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel_v1$model_fit_nobin_top30_lhp_amount_rule.coverage" NAME="model_fit_nobin_top30_lhp_amount_rule Coverage Results" MODIFIED="1608188858320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel$model_fit_v3_bak.coverage" NAME="model_fit_v3_bak Coverage Results" MODIFIED="1598170337637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel_v1$model_fit_nobin_top30_lhp_amount_rule_jdy.coverage" NAME="model_fit_nobin_top30_lhp_amount_rule_jdy Coverage Results" MODIFIED="1608195345069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel_v1$model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_bak.coverage" NAME="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_bak Coverage Results" MODIFIED="1609733339858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel$report_out_yx.coverage" NAME="report_out_yx Coverage Results" MODIFIED="1596372483800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model_code" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel$plot.coverage" NAME="plot Coverage Results" MODIFIED="1596514667079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel$model_to_apply_v3_bak.coverage" NAME="model_to_apply_v3_bak Coverage Results" MODIFIED="1596361624398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel_v1$model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz.coverage" NAME="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz Coverage Results" MODIFIED="1609119272044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel_v1$model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode.coverage" NAME="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode Coverage Results" MODIFIED="1609900498348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_to_treemodel_v1$model_fit_nobin_top30_lhp_amount_rule_jdy_yjm.coverage" NAME="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm Coverage Results" MODIFIED="1608196284289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="1082" column="26" lean-forward="true" selection-start-line="1082" selection-start-column="26" selection-end-line="1082" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_code/woe_transformer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-621">
+              <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="41" />
+              <folding>
+                <element signature="e#163#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_code/tree_selection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_code/bayes_opt_tuner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2850">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45195">
+              <caret line="3084" column="14" selection-start-line="3084" selection-start-column="8" selection-end-line="3084" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_code/feature_binning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="130" column="13" selection-start-line="125" selection-start-column="8" selection-end-line="130" selection-end-column="13" />
+              <folding>
+                <element signature="e#163#174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/category_label_encoder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" selection-start-line="54" selection-end-line="54" selection-end-column="61" />
+              <folding>
+                <element signature="e#170#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_nowritedata.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8910">
+              <caret line="613" column="12" selection-start-line="613" selection-start-column="8" selection-end-line="613" selection-end-column="12" />
+              <folding>
+                <element signature="e#228#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model_code/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="280" column="22" lean-forward="true" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+              <folding>
+                <element signature="e#153#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/bayes_opt/target_space.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2940">
+              <caret line="197" column="28" selection-start-line="197" selection-start-column="28" selection-end-line="197" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fb.psi</find>
+      <find>fb.t</find>
+      <find>calc_woe_iv</find>
+      <find>xgboost</find>
+      <find>XGBClassifier</find>
+      <find>df_corr = frame[by.index.to_list()].corr().abs()</find>
+      <find>classifiers_model</find>
+      <find>bayes_opt_tuner</find>
+      <find>category_to_labelEncoder</find>
+      <find>fillna</find>
+      <find>log</find>
+      <find>log.in</find>
+      <find>detect</find>
+      <find>xgb</find>
+      <find>xgb.</find>
+      <find>begain optimizer params!!!</find>
+      <find>step</find>
+      <find>apply_month</find>
+      <find>split_data_type</find>
+      <find>to_model_data_path</find>
+      <find>to_</find>
+      <find>tree_selection</find>
+      <find>df_output_statis</find>
+      <find>最终入模变量</find>
+      <find>var_auc_ks_df.to_excel('xgb_not_del_corr_var_auc_ks_df.xlsx')</find>
+      <find>to_excel</find>
+      <find>模型训练完成</find>
+      <find>模型相关结果统计！！！</find>
+      <find>print</find>
+      <find>best model result is</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>通过</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model_code/detector.py" />
+        <option value="$PROJECT_DIR$/plot.py" />
+        <option value="$PROJECT_DIR$/plot_describe.py" />
+        <option value="$PROJECT_DIR$/abctest.py" />
+        <option value="$PROJECT_DIR$/model_fit_v3.py" />
+        <option value="$PROJECT_DIR$/model_fit_v3_bak.py" />
+        <option value="$PROJECT_DIR$/is_monotonic.py" />
+        <option value="$PROJECT_DIR$/model_code/aes.py" />
+        <option value="$PROJECT_DIR$/model_code/bayes_opt_tuner.py" />
+        <option value="$PROJECT_DIR$/model_code/data_aes.py" />
+        <option value="$PROJECT_DIR$/model_code/feature_binning.py" />
+        <option value="$PROJECT_DIR$/model_code/report_out_v2.py" />
+        <option value="$PROJECT_DIR$/model_code/report_out_yx.py" />
+        <option value="$PROJECT_DIR$/model_code/tree_selection.py" />
+        <option value="$PROJECT_DIR$/model_code/utils.py" />
+        <option value="$PROJECT_DIR$/model_code/woe_transformer.py" />
+        <option value="$PROJECT_DIR$/category_label_encoder.py" />
+        <option value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule.py" />
+        <option value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy.py" />
+        <option value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm.py" />
+        <option value="$PROJECT_DIR$/aaa.py" />
+        <option value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_nowritedata.py" />
+        <option value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz.py" />
+        <option value="$PROJECT_DIR$/to_model_data/成立以来RWFile_tocsv.py" />
+        <option value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_bak.py" />
+        <option value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data_to_treemodel_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_to_treemodel_v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_to_treemodel_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_to_treemodel_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="model_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_to_treemodel_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_to_treemodel_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="to_model_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/model_result_data/RP99/p1/model/titanic_towoe" />
+      <recent name="$PROJECT_DIR$/model_code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode">
+    <configuration name="model_fit_nobin_top30_lhp_amount_rule_jdy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_to_treemodel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_to_treemodel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_to_treemodel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_bak" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_to_treemodel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_bak.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_to_treemodel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode" />
+        <item itemvalue="Python.model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_bak" />
+        <item itemvalue="Python.model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz" />
+        <item itemvalue="Python.model_fit_nobin_top30_lhp_amount_rule_jdy_yjm" />
+        <item itemvalue="Python.model_fit_nobin_top30_lhp_amount_rule_jdy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31b0a1a8-7689-431a-9c90-71887c926504" name="Default Changelist" comment="" />
+      <created>1596361138901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596361138901</updated>
+      <workItem from="1596361140119" duration="15591000" />
+      <workItem from="1596514644397" duration="1747000" />
+      <workItem from="1596788448913" duration="7883000" />
+      <workItem from="1597296867687" duration="385000" />
+      <workItem from="1597372046910" duration="1410000" />
+      <workItem from="1597395975358" duration="1193000" />
+      <workItem from="1597480003322" duration="251000" />
+      <workItem from="1597645807390" duration="2520000" />
+      <workItem from="1598016742083" duration="33013000" />
+      <workItem from="1599866733513" duration="58000" />
+      <workItem from="1600155380576" duration="11990000" />
+      <workItem from="1600463196773" duration="1078000" />
+      <workItem from="1600584195710" duration="14014000" />
+      <workItem from="1601448396661" duration="631000" />
+      <workItem from="1601881681790" duration="304000" />
+      <workItem from="1602476543659" duration="2993000" />
+      <workItem from="1603199541937" duration="499000" />
+      <workItem from="1603274596918" duration="529000" />
+      <workItem from="1608188495311" duration="13841000" />
+      <workItem from="1609119193549" duration="2028000" />
+      <workItem from="1609238481586" duration="1061000" />
+      <workItem from="1609731401249" duration="4903000" />
+      <workItem from="1609828029127" duration="692000" />
+      <workItem from="1609900477885" duration="4658000" />
+      <workItem from="1610197332800" duration="11000" />
+      <workItem from="1612167302221" duration="268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7834395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.35286623" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_v3.py" />
+    <entry file="file://$PROJECT_DIR$/model_result_data/RP99/p1/model/titanic_towoe/RP99p1_titanic_towoe_iv_psi_df.csv" />
+    <entry file="file://$PROJECT_DIR$/is_monotonic.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/xgboost/sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="749" column="6" selection-start-line="749" selection-start-column="6" selection-end-line="749" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/aes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#151#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/data_aes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#201#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/report_out_v2.py" />
+    <entry file="file://$PROJECT_DIR$/model_code/report_out_yx.py" />
+    <entry file="file://$PROJECT_DIR$/../code_整理/ml_model_dev_code_v2_datatest/1_transform_loop.py" />
+    <entry file="file://$PROJECT_DIR$/../code_整理/ml_model_dev_code_v2_datatest/1_transform_loop_zy_test.py" />
+    <entry file="file://$PROJECT_DIR$/../code_整理/ml_model_dev_code_v2_datatest/1_transform_loop_zy_spli.py" />
+    <entry file="file://$PROJECT_DIR$/../code_整理/ml_model_dev_code_v2_datatest/1_transform_loop_AA227.py" />
+    <entry file="file://$PROJECT_DIR$/../code_整理/20200529/cut_bin/box_woe_transform.py" />
+    <entry file="file:///private/var/folders/n0/dfnfdmx13vx06bpzzr09fxzw0000gn/T/BetterZip临时文件夹.hZPDUQ/BetterZip临时文件夹.Vl8HKj/fengxian/2.predict.py" />
+    <entry file="file://$PROJECT_DIR$/../code_整理/ml_model_dev_code_v2_datatest/1_transform_loop_zy.py" />
+    <entry file="file://$PROJECT_DIR$/model_result_data/RP99/p1/model/titanic_towoe/category_var_value_woe.json" />
+    <entry file="file://$PROJECT_DIR$/model_result_data/RP99/p1/model/titanic_towoe/continuous_bins_dict.json" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99420">
+          <caret line="6736" column="8" selection-start-line="6736" selection-start-column="8" selection-end-line="6736" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55275">
+          <caret line="3765" column="12" selection-start-line="3765" selection-start-column="12" selection-end-line="3766" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_v3_bak.py" />
+    <entry file="file://$PROJECT_DIR$/model_to_apply_v3_bak.py" />
+    <entry file="file://$PROJECT_DIR$/model_to_apply.py" />
+    <entry file="file://$PROJECT_DIR$/model_fit_top30_lhp_new_cust_long_term0807_new.ipynb" />
+    <entry file="file://$PROJECT_DIR$/model_titanic_fit_codetest.ipynb" />
+    <entry file="file://$PROJECT_DIR$/model_to_apply_v3.py" />
+    <entry file="file://$PROJECT_DIR$/model_result_data/RP99/p1/model/titanic_towoe/continuous_var_bin_woe_dict.json" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/sklearn/preprocessing/label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="169" column="40" selection-start-line="169" selection-start-column="40" selection-end-line="169" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="865" column="4" selection-start-line="865" selection-start-column="4" selection-end-line="865" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/logger_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="89" column="10" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/bayes_opt/bayesian_optimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.py" />
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18000">
+          <caret line="1221" column="67" selection-start-line="1221" selection-start-column="50" selection-end-line="1221" selection-end-column="67" />
+          <folding>
+            <element signature="e#228#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_bak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19125">
+          <caret line="1296" column="34" selection-end-line="1357" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17805">
+          <caret line="1208" column="40" selection-start-line="1208" selection-start-column="29" selection-end-line="1208" selection-end-column="40" />
+          <folding>
+            <element signature="e#222#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/be7d2931fbf11b3b3c3701cbb4bfa1bf/Message/MessageTemp/ee79d924c21c8b71f761ff235e8de159/File/成立以来RWFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="55" selection-end-line="32" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/to_model_data/成立以来RWFile_tocsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45195">
+          <caret line="3084" column="14" selection-start-line="3084" selection-start-column="8" selection-end-line="3084" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_nowritedata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8910">
+          <caret line="613" column="12" selection-start-line="613" selection-start-column="8" selection-end-line="613" selection-end-column="12" />
+          <folding>
+            <element signature="e#228#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/bayes_opt/target_space.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="197" column="28" selection-start-line="197" selection-start-column="28" selection-end-line="197" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_fit_nobin_top30_lhp_amount_rule_jdy_yjm_tomz_dropsomecode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="1082" column="26" lean-forward="true" selection-start-line="1082" selection-start-column="26" selection-end-line="1082" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category_label_encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" selection-start-line="54" selection-end-line="54" selection-end-column="61" />
+          <folding>
+            <element signature="e#170#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/feature_binning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="130" column="13" selection-start-line="125" selection-start-column="8" selection-end-line="130" selection-end-column="13" />
+          <folding>
+            <element signature="e#163#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/woe_transformer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621">
+          <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#163#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/bayes_opt_tuner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2850">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/tree_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_code/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="280" column="22" lean-forward="true" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+          <folding>
+            <element signature="e#153#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
